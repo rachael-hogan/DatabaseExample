@@ -5,9 +5,9 @@ php index.php
 
 ## What I did to create the mysql database
 
-mysql.server stop
-mysql.server start
-mysql -u root -p
+- mysql.server stop
+- mysql.server start
+- mysql -u root -p
 
 USE my_database;
 

@@ -8,6 +8,7 @@ php index.php
 mysql.server stop
 mysql.server start
 mysql -u root -p
+
 USE my_database;
 
 CREATE TABLE Users (
